@@ -1,4 +1,4 @@
-module github.com/angry-beavers/chi-gcp-auth/middleware
+module github.com/angry-beavers/chi-gcp-auth
 
 go 1.19
 
